@@ -8,6 +8,9 @@ My name is Taaj Ojha and I am currently studying MSc Statistics at Imperial Coll
 
 My LinkedIn URL is: [Click Here](https://www.linkedin.com/in/taaj-ojha-07b282214/?isSelfProfile=true)
 
+------
+last updated: 2024-09-31
+
 <!--
 **ojhat/ojhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
